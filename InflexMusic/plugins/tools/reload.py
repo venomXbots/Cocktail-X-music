@@ -92,7 +92,7 @@ async def close_menu(_, CallbackQuery):
         await CallbackQuery.answer()
         await CallbackQuery.message.delete()
         await CallbackQuery.message.reply_text(
-            f"➜ 𝖢𝗅𝗈𝗌𝖾𝖽 𝖡𝗒 : {CallbackQuery.from_user.mention}"
+            f"𝖢𝗅𝗈𝗌𝖾𝖽 𝖡𝗒 ~> : {CallbackQuery.from_user.mention}"
         )
     except:
         pass
