@@ -1,7 +1,7 @@
 {
-    "name": "Inflex Music Bot",
+    "name": "𝗖𝗼𝗰𝗸𝘁𝗮𝗶𝗹 𝗫 𝗠𝘂𝘀𝗶𝗰",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/d6a63fe91240f0b271f7f.jpg",
+    "logo": "https://telegra.ph/file/2a811fd5e30f9850d6cbb.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "6432226618",
         "required": true
       },
       "STRING_SESSION": {
@@ -44,7 +44,7 @@
       },
       "QUEUE_LIMIT": {
         "description": "Fill Queue Limit . Example - 15",
-        "value": "",
+        "value": "9999999999",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -56,10 +56,16 @@
         "description": "Your heroku app name",
         "value": "",
         "required": false
+      }, 
+       "DURATION_LIMIT": {
+        "description": "Your Heroku account's API key",
+        "value": "9999999999",
+        "required": false
+
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
-        "value": "",
+        "value": "-1001851673261",
         "required": true
       }
     },
