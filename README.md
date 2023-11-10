@@ -1,15 +1,15 @@
-<h1 align="center"> Inflex Music Bot <\> </h1>
+<h1 align="center"> 𝐂𝐨𝐜𝐤𝐭𝐚𝐢𝐥 𝐗 𝐌𝐮𝐬𝐢𝐜 <\> </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="Inflex Music Logo" width="640" height="360">
+  <img src="https://telegra.ph/file/7dc61a1888f94ed694fb9.jpg" alt="Inflex Music Logo" width="640" height="360">
 </p>
 
 <p align="center">
-<a href="https://github.com/TeamInflex/InflexMusicBot/stargazers"><img src="https://img.shields.io/github/stars/TeamInflex/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TeamInflex/InflexMusicBot/network/members"> <img src="https://img.shields.io/github/forks/TeamInflex/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TeamInflex/InflexMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/NITISHSHARMA143123/Cocktail/stargazers"><img src="https://img.shields.io/github/stars/NITISHSHARMA143123/Cocktail?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/NITISHSHARMA143123/Cocktail/network/members"> <img src="https://img.shields.io/github/forks/NITISHSHARMA143123/Cocktail?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/NITISHSHARMA143123/Cocktail/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/TeamInflex/InflexMusicBot/commits/TeamInflex"> <img src="https://img.shields.io/github/last-commit/TeamInflex/InflexMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/NITISHSHARMA143123/Cocktail/commits/NITISHSHARMA143123"> <img src="https://img.shields.io/github/last-commit/TeamInflex/InflexMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
@@ -33,7 +33,7 @@
       ─「 <\> Deploy On Heroku <\> 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamInflex/InflexMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NITISHSHARMA143123/Cocktail"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ### 🔧 Quick Setup
@@ -57,7 +57,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TeamInflex/InflexMusicBot && cd InflexMusicBot
+   git clone https://github.com/NITISHSHARMA143123/Cocktail && cd Cocktail
    ```
 6. **Install Requirements**
    ```bash
@@ -99,7 +99,7 @@ The Inflex Music Bot Offers A Range Of Commands To Enhance Your Music Listening 
 | `/stop`                 | Stop The Bot And Clear The Queue.           |
 | `/queue`                | Display The List Of Songs In The Queue.     |
 
-For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/InflexMusicBot).
+For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/MusicX_Cocktail_ro_bot).
 
 ---
 
@@ -108,10 +108,10 @@ For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/InflexMusicB
 Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/InflexSupport">
+  <a href="https://telegram.me/Lily_support_chat">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/TeamInflex">
+  <a href="https://t.me/Lily_X_bots">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -122,7 +122,7 @@ Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
 
 We Welcome Contributions To The Inflex Music Bot Project. If You'd Like To Contribute, Please Follow These Steps :
 
-1. [Fork The Repository.](https://github.com/TeamInflex/InflexMusicBot/fork)
+1. [Fork The Repository.](https://github.com/NITISHSHARMA143123/Cocktail/fork)
 2. Create A New Branch With A Meaningful Name.
 3. Make Your Changes And Commit Them With A Descriptive Commit Message.
 4. Open A Pull Request Against Our `main` Branch.
