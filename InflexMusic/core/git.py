@@ -30,7 +30,7 @@ def install_req(cmd: str) -> Tuple[str, str, int, int]:
 
 
 def git():
-    REPO_LINK = config.UPSTREAM_REPO
+    REPO_LINK = config.OWNER_ID
     if config.GIT_TOKEN:
         GIT_USERNAME = REPO_LINK.split("https://t.me/its_arryan")[1].split("/")[0]
         TEMP_REPO = REPO_LINK.split("https://t.me/its_arryan")[1]
